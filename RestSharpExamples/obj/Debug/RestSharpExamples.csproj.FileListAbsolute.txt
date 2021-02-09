@@ -1,0 +1,15 @@
+C:\Users\mazuja1\Desktop\Prywatne\APJ\ta\restsAPI\restshapi\RestSharpExamples\bin\Debug\RestSharpExamples.dll
+C:\Users\mazuja1\Desktop\Prywatne\APJ\ta\restsAPI\restshapi\RestSharpExamples\bin\Debug\RestSharpExamples.pdb
+C:\Users\mazuja1\Desktop\Prywatne\APJ\ta\restsAPI\restshapi\RestSharpExamples\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mazuja1\Desktop\Prywatne\APJ\ta\restsAPI\restshapi\RestSharpExamples\bin\Debug\nunit.framework.dll
+C:\Users\mazuja1\Desktop\Prywatne\APJ\ta\restsAPI\restshapi\RestSharpExamples\bin\Debug\RestSharp.dll
+C:\Users\mazuja1\Desktop\Prywatne\APJ\ta\restsAPI\restshapi\RestSharpExamples\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\mazuja1\Desktop\Prywatne\APJ\ta\restsAPI\restshapi\RestSharpExamples\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mazuja1\Desktop\Prywatne\APJ\ta\restsAPI\restshapi\RestSharpExamples\bin\Debug\nunit.framework.pdb
+C:\Users\mazuja1\Desktop\Prywatne\APJ\ta\restsAPI\restshapi\RestSharpExamples\bin\Debug\nunit.framework.xml
+C:\Users\mazuja1\Desktop\Prywatne\APJ\ta\restsAPI\restshapi\RestSharpExamples\bin\Debug\RestSharp.xml
+C:\Users\mazuja1\Desktop\Prywatne\APJ\ta\restsAPI\restshapi\RestSharpExamples\obj\Debug\RestSharpExamples.csprojAssemblyReference.cache
+C:\Users\mazuja1\Desktop\Prywatne\APJ\ta\restsAPI\restshapi\RestSharpExamples\obj\Debug\RestSharpExamples.csproj.CoreCompileInputs.cache
+C:\Users\mazuja1\Desktop\Prywatne\APJ\ta\restsAPI\restshapi\RestSharpExamples\obj\Debug\RestSharpExamples.csproj.CopyComplete
+C:\Users\mazuja1\Desktop\Prywatne\APJ\ta\restsAPI\restshapi\RestSharpExamples\obj\Debug\RestSharpExamples.dll
+C:\Users\mazuja1\Desktop\Prywatne\APJ\ta\restsAPI\restshapi\RestSharpExamples\obj\Debug\RestSharpExamples.pdb
